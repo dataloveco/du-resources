@@ -33,8 +33,8 @@ The repository will include a variety of resource files such as:
 │   └── resource-10-presentation-reporting.ipynb
 │   ├── README.md                                            # Python Guide README file
 ├── high-performance-computer-guide.md
-└── terminal-and-git-guide.md
-├── README.md                                                # Overall Repository README file
+├── terminal-and-git-guide.md
+└── README.md                                                # Overall Repository README file
 ```
 
 ## Usage
