@@ -6,7 +6,9 @@ The goal is to have a central place where I (and collaborators) can quickly find
 ## What’s Inside
 The repository will include a variety of resource files such as:
 - **Terminal and Git Quick Guide** – Everyday shell navigation, file management, and Git workflows.  
-- **HPC Quick Guide** – How to connect to DU’s High-Performance Computing cluster, run jobs with SLURM, and launch JupyterLab.  
+- **HPC Quick Guide** – How to connect to DU’s High-Performance Computing cluster, run jobs with SLURM, and launch JupyterLab.
+- **Python Guide** - This guide was created to support students with little or no programming experience in learning Python, Jupyter, and basic financial data analysis.
+- [TBD] **R/RStudio Guide** - This guide was created to support students with little or no programming experience in learning R/RStudio and basic data analysis (quantitative methods).  
 - Additional tips, cheat sheets, and best practices as they are gathered over time.
 
 ## Repository Structure
@@ -32,6 +34,7 @@ The repository will include a variety of resource files such as:
 │   ├── resource-09-package-management.ipynb
 │   └── resource-10-presentation-reporting.ipynb
 │   ├── README.md                                            # Python Guide README file
+|   ├── r-guide                                              # To be published 
 ├── high-performance-computer-guide.md
 ├── terminal-and-git-guide.md
 └── README.md                                                # Overall Repository README file
